@@ -18,7 +18,7 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 6,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "auto accident lawyer,truck accident lawyer,family law solicitors",
@@ -48,24 +48,6 @@
        "title": "Rainbow Friend Story",
        "image": "https://play-lh.googleusercontent.com/43rG_6J37H5q-EjzOALC5lVRiXwEpDzmIbZCw-_bnMxjKIL8FRyxiHD5FBBb1jyfJg=w240-h480",
        "link": "https://play.google.com/store/apps/details?id=com.origine.rainbowmonsters"
-    },
-     {
-       "id": 4,
-       "title": "Shakira Songs-Wallpapers",
-       "image": "https://play-lh.googleusercontent.com/FBA65Lw4RrmBv2z-InpiDInHI9l7l5Sw4zjWer73WCG-MIcaF1opxTeMUEiL7Nrwn8A=w240-h480",
-       "link": "https://play.google.com/store/apps/details?id=com.origine.shakira.songs"
-    },
-     {
-       "id": 5,
-       "title": "Taylor Swift Songs-Wallpapers",
-       "image": "https://play-lh.googleusercontent.com/9U1Vx7swfPEU1wx3cXJ-fu4MmhmY09BGjQnH8ugFmhyHhJFUDJuuMf_JZSUFKCxG8JsI=w240-h480",
-       "link": "https://play.google.com/store/apps/details?id=com.origine.taylorswifthsongs"
-    },
-     {
-       "id": 6,
-       "title": "Brawl Stars Videos",
-       "image": "https://play-lh.googleusercontent.com/1sSrlQAWEFi0pPZtiTmP_8o7qIO5ovsVQJg7h7Mtn1OyN2ceS_D4d-ytAjfbWBpCsA=w240-h480",
-       "link": "https://play.google.com/store/apps/details?id=com.origine.brawlstars"
     }
    ]
 }
